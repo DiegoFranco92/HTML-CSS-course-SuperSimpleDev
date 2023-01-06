@@ -1,0 +1,52 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.video-title {
+    font-weight: bold;
+    font-size: 19px;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+
+.video-stats {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(90, 90, 90);
+    margin-bottom: 20px;
+}
+
+.video-author {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(90 ,90 ,90);
+    margin-bottom: 20px;
+}
+
+.video-description {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(90, 90, 90);
+    width: 300px;
+    line-height: 20px;
+}
+
+.shop-description {
+    color: rgb(238, 229, 229);
+    background-color: rgb(212, 19, 19);
+    padding-top: 19px;
+    padding-bottom: 19px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+  
+}
+
+
+.shop-link {
+    color: white;
+    margin-left: 8px;
+}
